@@ -1,0 +1,58 @@
+/questions/tagged/javascript%2bjava?tab=votes&page={}&pagesize=50 (1,50)
+/questions/tagged/javascript%2bc?tab=votes&page={}&pagesize=50
+/questions/tagged/javascript%2bpython?tab=votes&page={}&pagesize=50
+/questions/tagged/javascript%2bphp?tab=votes&page={}&pagesize=50
+/questions/tagged/javascript%2bshell?tab=votes&page={}&pagesize=50
+/questions/tagged/javascript%2bc%23?tab=votes&page={}&pagesize=50
+/questions/tagged/javascript%20c%2b%2b?tab=votes&page={}&pagesize=50
+/questions/tagged/java%2bpython?tab=votes&page={}&pagesize=15 (1, 34)
+/questions/tagged/java%2bc?tab=votes&page={}&pagesize=15 (1, 26)
+/questions/tagged/python%2bc?tab=votes&page={}&pagesize=15 (1, 35)
+/questions/tagged/java%2bphp?tab=votes&page={}&pagesize=15 (1, 19)
+/questions/tagged/python%2bphp?tab=votes&page={}&pagesize=15 (1, 17)
+/quesstions/tagged/php%2bc?tab=votes&page={}&pagesize=15 (1, 6)
+/questions/tagged/c%23%2bpython?tab=votes&page={}&pagesize=15 (1, 14)
+/questions/tagged/c%23%2bjava?tab=votes&page={}&pagesize=15 (1, 55)
+/questions/tagged/c%23%2bc?tab=votes&page={}&pagesize=15 (1, 13)
+/questions/tagged/c%23%2bphp?tab=votes&page={}&pagesize=15 (1, 8)
+/questions/tagged/python%2bshell?tab=votes&page={}&pagesize=15 (1, 20)
+/questions/tagged/java%2bshell?tab=votes&page={}&pagesize=50 (1, 3)
+/questions/tagged/php%2bshell?tab=votes&page={}&pagesize=50 (1, 3)
+/questions/tagged/c%2bshell?tab=votes&page={}&pagesize=50 (1, 3)
+/questions/tagged/c%23%2bshell?tab=votes&page={}&pagesize=50 (1, 2)
+/questions/tagged/c%20c%2b%2b?tab=votes&page={}&pagesize=50 (1, 150)
+/questions/tagged/java%20c%2b%2b?tab=votes&page={}&pagesize=50
+/questions/tagged/python%20c%2b%2b?tab=votes&page={}&pagesize=50
+/questions/tagged/php%20c%2b%2b?tab=votes&page={}&pagesize=50
+/questions/tagged/c%23%20c%2b%2b?tab=votes&page={}&pagesize=50
+/questions/tagged/shell%20c%2b%2b?tab=votes&page={}&pagesize=50
+/questions/tagged/c%20c%2b%2b%20java?tab=votes&page={}&pagesize=50
+/questions/tagged/c%20c%2b%2b%20python?tab=votes&page={}&pagesize=50
+/questions/tagged/c%20c%2b%2b%20php?tab=votes&page={}&pagesize=50
+/questions/tagged/c%20c%23%20c%2b%2b?tab=votes&page={}&pagesize=50
+/questions/tagged/c%20c%2b%2b%20shell?tab=votes&page={}&pagesize=50
+/questions/tagged/c%20c%2b%2b%20javascript?tab=votes&page={}&pagesize=50
+/questions/tagged/python%20c%2b%2b%20java?tab=votes&page={}&pagesize=50
+/questions/tagged/python%20c%2b%2b%20php?tab=Votes
+/questions/tagged/python%20c%2b%2b%20c%23?tab=Votes
+/questions/tagged/python%20c%2b%2b%20shell?tab=Votes
+/questions/tagged/python%20javascript%20c%2b%2b?tab=Votes
+/questions/tagged/java%20php%20c%2b%2b?tab=Votes
+/questions/tagged/java%20c%23%20c%2b%2b?tab=votes&page={}&pagesize=50
+/questions/tagged/c%2b%2b%20java%20javascript?tab=Votes
+/questions/tagged/c%2b%2b%20php%20c%23?tab=Votes
+/questions/tagged/c%2b%2b%20php%20javascript?tab=Votes
+/questions/tagged/c%2b%2b%20c%23%20javascript?tab=Votes
+/questions/tagged/javascript%2bc%2bjava?tab=Votes
+/questions/tagged/javascript+c+python?tab=Votes
+/questions/tagged/javascript+c+php?tab=Votes
+/questions/tagged/javascript+c+c%23?tab=Votes
+/questions/tagged/javascript+java+python?tab=Votes
+/questions/tagged/javascript+java+php?tab=Votes
+/questions/tagged/javascript%2bjava%2bc%23?tab=Votes
+/questions/tagged/javascript+shell+java?tab=Votes
+/questions/tagged/javascript+python+php
+/questions/tagged/javascript+python+c%23
+/questions/tagged/javascript+python+shell
+/questions/tagged/javascript+php+c%23
+/questions/tagged/javascript+php+shell
