@@ -1,0 +1,28 @@
+c |c++
+c |python
+c |java
+c |php
+c |c#
+c |shell
+c |javascript
+c++|python
+c++|java
+c++|php
+c++|c#
+c++|shell
+c++|javascript
+python|java
+python|php
+python|c#
+python|shell
+python|javascript
+java|php
+java|c#
+java|shell
+java|javascript
+php|c#
+php|shell
+php|javascript
+c#|shell
+c#|javascript
+shell|javascript

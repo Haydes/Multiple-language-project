@@ -1,0 +1,56 @@
+c |c++|python|java|php
+c |c++|python|java|c#
+c |c++|python|java|shell
+c |c++|python|java|javascript
+c |c++|python|php|c#
+c |c++|python|php|shell
+c |c++|python|php|javascript
+c |c++|python|c#|shell
+c |c++|python|c#|javascript
+c |c++|python|shell|javascript
+c |c++|java|php|c#
+c |c++|java|php|shell
+c |c++|java|php|javascript
+c |c++|java|c#|shell
+c |c++|java|c#|javascript
+c |c++|java|shell|javascript
+c |c++|php|c#|shell
+c |c++|php|c#|javascript
+c |c++|php|shell|javascript
+c |c++|c#|shell|javascript
+c |python|java|php|c#
+c |python|java|php|shell
+c |python|java|php|javascript
+c |python|java|c#|shell
+c |python|java|c#|javascript
+c |python|java|shell|javascript
+c |python|php|c#|shell
+c |python|php|c#|javascript
+c |python|php|shell|javascript
+c |python|c#|shell|javascript
+c |java|php|c#|shell
+c |java|php|c#|javascript
+c |java|php|shell|javascript
+c |java|c#|shell|javascript
+c |php|c#|shell|javascript
+c++|python|java|php|c#
+c++|python|java|php|shell
+c++|python|java|php|javascript
+c++|python|java|c#|shell
+c++|python|java|c#|javascript
+c++|python|java|shell|javascript
+c++|python|php|c#|shell
+c++|python|php|c#|javascript
+c++|python|php|shell|javascript
+c++|python|c#|shell|javascript
+c++|java|php|c#|shell
+c++|java|php|c#|javascript
+c++|java|php|shell|javascript
+c++|java|c#|shell|javascript
+c++|php|c#|shell|javascript
+python|java|php|c#|shell
+python|java|php|c#|javascript
+python|java|php|shell|javascript
+python|java|c#|shell|javascript
+python|php|c#|shell|javascript
+java|php|c#|shell|javascript
